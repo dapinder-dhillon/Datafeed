@@ -1,0 +1,46 @@
+{
+    "record": [
+      {
+        "ORGN": "DOH",
+        "DSTN": "DAC",
+        "AIRCRAFT_TYPE": "332",
+        "EQUIPMENT": "32C",
+        "FLT_MONTH": "42248",
+        "FLT_ROUTE": "DOH-DAC-DOH",
+        "FIRST_LEG": "5",
+        "LEGS": "5",
+        "ROTATIONS": "2.5",
+        "LANDINGS": "5",
+        "BLOCK_HOUR": "1.11111111111111",
+        "DISTANCE": "20195"
+      },
+      {
+        "ORGN": "DOH",
+        "DSTN": "DMM",
+        "AIRCRAFT_TYPE": "332",
+        "EQUIPMENT": "32E",
+        "FLT_MONTH": "42248",
+        "FLT_ROUTE": "DOH-DMM-DOH",
+        "FIRST_LEG": "5",
+        "LEGS": "5",
+        "ROTATIONS": "2.5",
+        "LANDINGS": "5",
+        "BLOCK_HOUR": "0.208333333333333",
+        "DISTANCE": "1150"
+      },
+      {
+        "ORGN": "DAC",
+        "DSTN": "DOH",
+        "AIRCRAFT_TYPE": "333",
+        "EQUIPMENT": "33A",
+        "FLT_MONTH": "42248",
+        "FLT_ROUTE": "DOH-DAC-DOH",
+        "FIRST_LEG": "31",
+        "LEGS": "31",
+        "ROTATIONS": "15.5",
+        "LANDINGS": "31",
+        "BLOCK_HOUR": "6.99652777777778",
+        "DISTANCE": "125209"
+      }
+    ]
+}
