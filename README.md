@@ -73,4 +73,4 @@ public class Record {
 - gradle clean b
 
 ##License
-This projected is licensed under the terms of the [Apache v2 license](http://www.apache.org/licenses/LICENSE-2.0.html)
+The project is licensed under the terms of the [Apache v2 license](http://www.apache.org/licenses/LICENSE-2.0.html)
